@@ -47,7 +47,7 @@
   grid-template-columns: repeat($columnas, 1fr);
 }
 
-@mixin header-cursiva {
+@mixin heading-cursiva {
   text-align: center;
   color: v.$secundario;
   font-family: v.$fuenteCursiva;
